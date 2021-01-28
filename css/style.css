@@ -1,0 +1,78 @@
+
+
+header {
+    text-align: center;
+
+
+
+}
+nav{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+
+
+}
+
+main {
+    width: 1300px;
+    margin: auto auto;
+    border: 10px solid cadetblue;
+    padding: 20px;
+    text-align: center;
+    
+
+
+
+
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: cadetblue;
+    min-height: 8vh;
+
+
+
+}
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+
+
+
+
+
+}
+.nav-links a {
+    color: ivory;
+    text-decoration: none;
+    font-family: 'Potta One', cursive;
+
+
+
+}
+
+.nav-links li {
+    list-style: none;
+
+
+}
+
+h1 {
+    font-family: 'Potta One', cursive;
+
+}
+
+header h1 {
+    padding: 20px;
+    font-size: 35px;
+
+}
+main h1 {
+    font-size: 25px;
+
+
+}

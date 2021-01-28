@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+
+
+}
+nav{
+    background: cadetblue;
+    height: 80px;
+    width: 100%;
+
+
+}
+label.logo {
+    color: white;
+    font-size: 45px;
+    line-height: 70px;
+    padding: 0 80px;
+    font-family: 'Staatliches', cursive;
+
+
+
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+
+
+
+}
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 50px;
+    font-family: 'Potta One', cursive;
+
+}
+nav ul li a {
+    color: white;
+
+}
+
+
+main {
+    background: url(../obrazky/pozadi.jpg) no-repeat;
+    background-size: cover;
+    height: 1100px;
+
+}
+
+
